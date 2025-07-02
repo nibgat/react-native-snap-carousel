@@ -1,5 +1,5 @@
 import React, { PureComponent } from 'react';
-import { View, Animated, Easing, TouchableOpacity, ViewPropTypes } from 'react-native';
+import { View, Animated, Easing, TouchableOpacity, ViewStyle, ViewPropTypes } from 'react-native';
 import PropTypes from 'prop-types';
 import styles from './Pagination.style';
 
